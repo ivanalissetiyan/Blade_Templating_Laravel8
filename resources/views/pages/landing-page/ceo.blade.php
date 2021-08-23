@@ -34,11 +34,11 @@
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex items-center">
                                             <div class="flex-shrink-0 h-10 w-10">
-                                                <img class="h-10 w-10 rounded-full" src="https://resources.premierleague.com/premierleague/photos/players/250x250/man39237.png" alt="">
+                                                <img class="h-10 w-10 rounded-full" src="{{ asset('assets/img/ceo1.png') }}" alt="">
                                             </div>
                                             <div class="ml-4">
                                                 <div class="text-sm font-medium text-gray-900">
-                                                    Thomas Tuchel
+                                                    Agung
                                                 </div>
                                                 <div class="text-sm text-gray-500">
                                                     47 Years
@@ -47,10 +47,10 @@
                                         </div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        Chelsea FC
+                                        PT Kuadran Technology
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        Germany
+                                        Indonesia
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                                         <a href="#" class="text-indigo-600 hover:text-indigo-900">Detail</a>
@@ -61,23 +61,23 @@
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex items-center">
                                             <div class="flex-shrink-0 h-10 w-10">
-                                                <img class="h-10 w-10 rounded-full" src="https://resources.premierleague.com/premierleague/photos/players/250x250/man279.png" alt="">
+                                                <img class="h-10 w-10 rounded-full" src="{{ asset('assets/img/ceo2.png') }}" alt="">
                                             </div>
                                             <div class="ml-4">
                                                 <div class="text-sm font-medium text-gray-900">
-                                                    Jurgen Klopp
+                                                    Putri
                                                 </div>
                                                 <div class="text-sm text-gray-500">
-                                                    53 Years
+                                                    43 Years
                                                 </div>
                                             </div>
                                         </div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        Liverpool
+                                        PT ASD Technology
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        Germany
+                                        Indonesia
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                                         <a href="#" class="text-indigo-600 hover:text-indigo-900">Detail</a>

@@ -92,9 +92,7 @@
             <a class="text-lg font-light leading-6 mx-0 lg:mx-5 my-4 lg:my-0 relative" href="{{ route('landing.ceo') }}">CEO</a>
             <a class="text-lg font-light leading-6 mx-0 lg:mx-5 my-4 lg:my-0 relative" href="{{ route('landing.alamat') }}">Alamat</a>
             <div class="flex items-center justify-end w-full lg:hidden mt-3">
-              <button class="font-light text-white-1 py-3 px-8 focus:outline-none">
-                Log In
-              </button>
+             
               <button class="btn-try text-black text-lg py-3 px-8 rounded-xl focus:outline-none font-semibold">
                 Try Now
               </button>
@@ -105,10 +103,7 @@
             </svg>
           </nav>
           <div class="hidden lg:inline-flex">
-            <button
-              class="inline-flex text-white-1 text-black font-light text-lg leading-7 py-3 px-8 focus:outline-none">
-              Log In
-            </button>
+          
             <button
               class="btn-try inline-flex text-black text-lg leading-7 py-3 px-8 rounded-xl focus:outline-none font-semibold">
               Next Client

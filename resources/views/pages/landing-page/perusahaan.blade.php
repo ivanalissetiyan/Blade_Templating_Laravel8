@@ -35,35 +35,35 @@
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex items-center">
                                             <div class="flex-shrink-0 h-10 w-10">
-                                                <img class="h-10 w-10 rounded-full" src="https://resources.premierleague.com/premierleague/badges/t8.svg" alt="">
+                                                <img class="h-10 w-10 rounded-full" src="{{ asset('assets/img/startup1.png') }}" alt="">
                                             </div>
                                             <div class="ml-4">
                                                 <div class="text-sm font-medium text-gray-900">
-                                                    Chelsea FC
+                                                    PT Kuadran Technology
                                                 </div>
                                                 <div class="text-sm text-gray-500">
-                                                    chelseafc.com
+                                                    kuadrantechnology.com
                                                 </div>
                                             </div>
                                         </div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        Stamford Bridge
+                                       Batam Centre
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        10
+                                        32
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex items-center">
                                             <div class="flex-shrink-0 h-10 w-10">
-                                                <img class="h-10 w-10 rounded-full" src="https://resources.premierleague.com/premierleague/badges/t1.svg" alt="">
+                                                <img class="h-10 w-10 rounded-full" src="{{ asset('assets/img/client1.png') }}" alt="">
                                             </div>
                                             <div class="ml-4">
                                                 <div class="text-sm font-medium text-gray-900">
-                                                    Manchester United
+                                                   PT Telkom Indonesia
                                                 </div>
                                                 <div class="text-sm text-gray-500">
-                                                    www.manutd.com
+                                                    www.telkomindonesia.com
                                                 </div>
                                             </div>
                                         </div>
@@ -77,35 +77,35 @@
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex items-center">
                                             <div class="flex-shrink-0 h-10 w-10">
-                                                <img class="h-10 w-10 rounded-full" src="https://resources.premierleague.com/premierleague/badges/t14.svg" alt="">
+                                                <img class="h-10 w-10 rounded-full" src="{{ asset('assets/img/startup2.png') }}" alt="">
                                             </div>
                                             <div class="ml-4">
                                                 <div class="text-sm font-medium text-gray-900">
-                                                    Liverpool
+                                                    PT ASD Technology
                                                 </div>
                                                 <div class="text-sm text-gray-500">
-                                                    liverpool.com
+                                                    asdtechnology.com
                                                 </div>
                                             </div>
                                         </div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        Anfield
+                                        Batam Centre
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        10
+                                        50
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex items-center">
                                             <div class="flex-shrink-0 h-10 w-10">
-                                                <img class="h-10 w-10 rounded-full" src="https://resources.premierleague.com/premierleague/badges/t43.svg" alt="">
+                                                <img class="h-10 w-10 rounded-full" src="{{ asset('assets/img/client2.png') }}" alt="">
                                             </div>
                                             <div class="ml-4">
                                                 <div class="text-sm font-medium text-gray-900">
-                                                    Manchester City
+                                                    Bank BNI Indonesia
                                                 </div>
                                                 <div class="text-sm text-gray-500">
-                                                    www.mancity.com
+                                                    www.bniindonesia.com
                                                 </div>
                                             </div>
                                         </div>

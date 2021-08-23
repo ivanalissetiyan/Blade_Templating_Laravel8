@@ -35,11 +35,11 @@
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex items-center">
                                             <div class="flex-shrink-0 h-10 w-10">
-                                                <img class="h-10 w-10 rounded-full" src="https://resources.premierleague.com/premierleague/badges/t8.svg" alt="">
+                                                <img class="h-10 w-10 rounded-full" src="{{ asset('assets/img/startup1.png') }}" alt="">
                                             </div>
                                             <div class="ml-4">
                                                 <div class="text-sm font-medium text-gray-900">
-                                                    Stamford Bridge
+                                                    Batam Centre
                                                 </div>
                                                 <div class="text-sm text-gray-500">
                                                     40,853
@@ -48,10 +48,10 @@
                                         </div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        Chelsea FC
+                                        PT Kuadran Technology
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        Stamford Bridge, Fulham Road, London, SW6 1HS
+                                        Batam Centre, Orchid Park, Blok C89 
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                                         <a href="#" class="text-indigo-600 hover:text-indigo-900">Detail</a>
@@ -62,11 +62,11 @@
                                     <td class="px-6 py-4 whitespace-nowrap">
                                         <div class="flex items-center">
                                             <div class="flex-shrink-0 h-10 w-10">
-                                                <img class="h-10 w-10 rounded-full" src="https://resources.premierleague.com/premierleague/badges/t3.svg" alt="">
+                                                <img class="h-10 w-10 rounded-full" src="{{ asset('assets/img/startup2.png') }}" alt="">
                                             </div>
                                             <div class="ml-4">
                                                 <div class="text-sm font-medium text-gray-900">
-                                                    Emirates Stadium
+                                                    Batam Centre
                                                 </div>
                                                 <div class="text-sm text-gray-500">
                                                     60,260
@@ -75,10 +75,10 @@
                                         </div>
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        Arsenal
+                                        PT ASD Technology
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap">
-                                        Highbury House, 75 Drayton Park, London, N5 1BU
+                                       Batam Centre, Dutamas, Blok A 19
                                     </td>
                                     <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                                         <a href="#" class="text-indigo-600 hover:text-indigo-900">Detail</a>
