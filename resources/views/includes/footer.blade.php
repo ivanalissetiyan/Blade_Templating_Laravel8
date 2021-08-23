@@ -1,7 +1,5 @@
-  </section><section class="h-full pt-20 pb-12 lg:px-24 md:px-16 sm:px-8 px-4 transition-all duration-500 linear"
+   </section><section class="h-full pt-20 pb-12 lg:px-24 md:px-16 sm:px-8 px-4 transition-all duration-500 linear"
    style="background-color: #000000">
-
-
   <footer class="footer-2-4" style="font-family: 'Poppins', sans-serif;">
         <div class="lg:pb-24 pb-16 mx-auto">
           <div class="grid lg:grid-cols-4 sm:grid-cols-2 lg:gap-0 gap-y-6">
@@ -17,7 +15,7 @@
                   <a>About</a>
                 </li>
                 <li>
-                  <a>Features</a>
+                  <a>mantl</a>
                 </li>
                 <li>
                   <a>Pricing</a>

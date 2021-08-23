@@ -19,3 +19,7 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::resource('/', LandingController::class);
+Route::get('perusahaan', [LandingController::class, 'perusahaan'])->name('landing.perusahaan');
+Route::get('cto', [LandingController::class, 'cto'])->name('landing.cto');
+Route::get('ceo', [LandingController::class, 'ceo'])->name('landing.ceo');
+Route::get('alamat', [LandingController::class, 'alamat'])->name('landing.alamat');

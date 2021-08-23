@@ -1,109 +1,155 @@
- </section><section class="h-full w-full border-box bg-white">
-		
+       <section class="h-full w-full border-box bg-black transition-all duration-500 linear">
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
-		<div class="content-2-2" style="font-family: 'Poppins', sans-serif">
-			<div class="container lg:px-32 md:px-8 sm:px-12 px-5 pt-20 pb-12 mx-auto">
-				<!-- Title Text -->
-				<div class="flex flex-col text-center w-full mb-12">
-					<h1 class="text-4xl font-semibold title-font mb-2.5 text-medium-black">
-						3 Keys Benefit
-					</h1>
-					<h2
-						class="text-base font-light title-font mx-12 lg:w-full md:w-full sm:w-3/6 sm:mx-auto text-medium-black">
-						You can easily manage your business with a powerful tools
-					</h2>
-				</div>
+      .header-4-4 .btn-outline {
+        border: 1px solid #999999;
+        color: #999999;
+        transition: 0.3s;
+      }
 
-				<!-- 3-Column -->
-				<div class="flex lg:flex-row flex-col -m-4">
-					<div class="px-14 md:px-0 lg:px-4 lg:w-1/3 md:w-1/3 sm:w-4/6 mx-auto">
-						<div class="flex rounded-lg h-full lg:pt-8 lg:pb-8 md:pt-8 md:pb-8 pt-4 pb-12 flex-col">
-							<div class="items-center text-center">
-								<div class="inline-flex items-center justify-center rounded-full mb-6">
-									<img src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content2/Content-2-5.png"
-										alt="" />
-								</div>
-							</div>
-							<div class="flex-grow">
-								<h4 class="font-medium text-center text-2xl mb-2.5 text-medium-black">
-									Easy to Operate
-								</h4>
-								<p class="leading-relaxed text-base text-center tracking-wide text-gray">
-									This can easily help you to <br /> grow up your business fast
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="px-14 md:px-0 lg:px-4 lg:w-1/3 md:w-1/3 sm:w-4/6 mx-auto">
-						<div class="flex rounded-lg h-full lg:pt-8 lg:pb-8 md:pt-8 md:pb-8 pt-12 pb-12 flex-col">
-							<div class="items-center text-center">
-								<div class="inline-flex items-center justify-center rounded-full mb-6">
-									<img src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content2/Content-2-6.png"
-										alt="" />
-								</div>
-							</div>
-							<div class="flex-grow">
-								<h4 class="font-medium text-center text-2xl mb-2.5 text-medium-black">
-									Real-Time Analytic
-								</h4>
-								<p class="leading-relaxed text-base text-center tracking-wide text-gray">
-									With real-time analytics, you <br /> can check data in real time
-								</p>
-							</div>
-						</div>
-					</div>
-					<div class="px-14 md:px-0 lg:px-4 lg:w-1/3 md:w-1/3 sm:w-4/6 mx-auto">
-						<div class="flex rounded-lg h-full lg:pt-8 lg:pb-8 md:pt-8 md:pb-8 pt-12 pb-6 flex-col">
-							<div class="items-center text-center">
-								<div class="inline-flex items-center justify-center rounded-full mb-6">
-									<img src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content2/Content-2-7.png"
-										alt="" />
-								</div>
-							</div>
-							<div class="flex-grow">
-								<h4 class="font-medium text-center text-2xl mb-2.5 text-medium-black">
-									Very Full Secured
-								</h4>
-								<p class="leading-relaxed text-base text-center tracking-wide text-gray">
-									With real-time analytics, we <br /> will guarantee your data
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+      .header-4-4 .btn-outline:hover {
+        border: 1px solid #ffffff;
+        color: #ffffff;
+        transition: 0.3s;
+      }
 
-			<div class="lg:px-24 md:px-16 sm:px-8 px-4 pb-20 pt-12 mx-auto">
-				<div class="flex lg:flex-row flex-col -m-4">
-					<div class="p-4 w-full">
-						<div
-							class="card-header h-full flex lg:flex-row flex-col p-7 rounded-xl lg:space-x-3.5 md:space-x-3.5 space-x-0">
-							<div class="text-center mx-auto">
-								<img src="http://api.elements.buildwithangga.com/storage/files/2/assets/Content/Content2/Content-2-1%20(1).png"
-									alt="" />
-							</div>
-							<div
-								class="flex-grow my-auto lg:text-left lg:w-3/4 w-full lg:text-left text-center lg:my-auto md:my-auto py-6">
-								<h4 class="text-2xl font-semibold mb-2.5">
-									Fast Business Management in 30 minutes
-								</h4>
-								<p class="text-base font-light tracking-wide w-full text-gray">
-									Our tools for business analysis helps an organization understand <br
-										class="lg:block hidden" /> market or business development.
-								</p>
-							</div>
-							<a class="inline-block items-center my-auto text-center">
-								<button
-									class="btn-fill font-bold text-white text-base py-4 lg:w-full md:w-full sm:w-2/3 w-full rounded-xl mb-4 md:mb-5 lg:mb-5 focus:outline-none hover:shadow-lg">
-									Buy Now
-								</button>
-								<button
-									class="btn-outline font-normal text-black text-base py-4 lg:w-full md:w-full sm:w-2/3 w-full px-6 rounded-xl focus:outline-none bg-transparent rounded hover:border-transparent">
-									Demo Version
-								</button>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+      .header-4-4 .btn-outline:hover div path {
+        fill: #ffffff;
+        transition: 0.3s;
+      }
+
+      .header-4-4 .btn-try {
+        background-image: linear-gradient(rgba(208, 254, 123, 1),
+            rgba(163, 252, 158, 1));
+        transition: 0.3s;
+      }
+
+      .header-4-4 .btn-try:hover {
+        --tw-shadow: inset 0 0px 18px 0 rgba(0, 0, 0, 0.7);
+        box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+          var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+        transition: 0.3s;
+      }
+
+      .header-4-4 .navigation a:hover,
+      .header-4-4 .active {
+        font-weight: 600;
+        transition: 0.3s;
+      }
+
+      .header-4-4 .navigation a:hover {
+        color: #ffffff;
+        transition: 0.3s;
+      }
+
+      .header-4-4 .navigation {
+        color: #b9b9b9;
+        transition: 0.3s;
+      }
+
+      .header-4-4 .bg-screen {
+        background-color: #2c2c2c;
+      }
+
+      .header-4-4 .bg-popup {
+        background-color: #000000;
+      }
+
+      .header-4-4 .text-white-1 {
+        color: #e7e7e8;
+      }
+    </style>
+    <!-- Navbar -->
+    <div class="header-4-4" style="font-family: 'Poppins', sans-serif">
+      <header x-data="{ open: false }">
+        <div class="mx-auto flex py-12 lg:px-24 md:px-16 sm:px-8 px-8 items-center justify-between lg:justify-start">
+          <a href="#">
+            <img src="http://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header2/Header-2-4.png"
+              alt="" />
+          </a>
+          <div class="flex mr-0 lg:hidden cursor-pointer">
+            <svg class="w-6 h-6" @click="open = !open" fill="none" stroke="#E7E7E8" viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+          </div>
+          <div :class="{'hidden': !open}"
+            class="bg-screen bg-black fixed w-full hidden h-full top-0 left-0 z-30 bg-opacity-60" @click="open = !open">
+          </div>
+          <nav
+            class="navigation lg:mr-auto hidden lg:flex flex-col text-base justify-center z-50 fixed top-8 left-3 right-3 p-8 rounded-md shadow-md bg-white lg:flex lg:flex-row lg:relative lg:top-0 lg:shadow-none bg-popup lg:bg-transparent lg:p-0 lg:items-center items-start"
+            :class="{'flex': open, 'hidden': !open}">
+            <a href="#">
+              <img class="m-0 lg:hidden mb-3"
+                src="http://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header2/Header-2-4.png"
+                alt="" />
+            </a>
+            <a class="text-lg text-white font-semibold leading-6 mx-0 lg:mx-5 my-4 lg:my-0 relative active"
+              href="{{ route('index') }}">Home</a>
+            <a class="text-lg font-light leading-6 mx-0 lg:mx-5 my-4 lg:my-0 relative" href="{{ route('landing.perusahaan') }}">Perusahaan</a>
+            <a class="text-lg font-light leading-6 mx-0 lg:mx-5 my-4 lg:my-0 relative" href="{{ route('landing.cto') }}">CTO</a>
+            <a class="text-lg font-light leading-6 mx-0 lg:mx-5 my-4 lg:my-0 relative" href="{{ route('landing.ceo') }}">CEO</a>
+            <a class="text-lg font-light leading-6 mx-0 lg:mx-5 my-4 lg:my-0 relative" href="{{ route('landing.alamat') }}">Alamat</a>
+            <div class="flex items-center justify-end w-full lg:hidden mt-3">
+              <button class="font-light text-white-1 py-3 px-8 focus:outline-none">
+                Log In
+              </button>
+              <button class="btn-try text-black text-lg py-3 px-8 rounded-xl focus:outline-none font-semibold">
+                Try Now
+              </button>
+            </div>
+            <svg @click="open = !open" class="w-6 h-6 absolute top-4 right-4 lg:hidden cursor-pointer" fill="none"
+              stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+            </svg>
+          </nav>
+          <div class="hidden lg:inline-flex">
+            <button
+              class="inline-flex text-white-1 text-black font-light text-lg leading-7 py-3 px-8 focus:outline-none">
+              Log In
+            </button>
+            <button
+              class="btn-try inline-flex text-black text-lg leading-7 py-3 px-8 rounded-xl focus:outline-none font-semibold">
+              Next Client
+            </button>
+          </div>
+        </div>
+      </header>
+
+      <!-- Hero -->
+   
+  </section><section class="h-full w-full border-box bg-white">
+		<style>
+			@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+			.content-2-2 .btn-outline {
+				border: 1px solid #979797;
+				color: #979797;
+			}
+
+			.content-2-2 .btn-outline:hover {
+				border: 1px solid #27c499;
+				color: #27c499;
+			}
+
+			.content-2-2 .btn-fill {
+				background-color: #27c499;
+				border: 1px solid #27c499;
+			}
+
+			.content-2-2 .card-header {
+				background-color: #eef6f4;
+				border: 1px solid #27c499;
+			}
+
+			.content-2-2 .text-medium-black {
+				color: #121212;
+			}
+
+			.content-2-2 .text-gray {
+				color: #565656;
+			}
+		</style>
+
+	
