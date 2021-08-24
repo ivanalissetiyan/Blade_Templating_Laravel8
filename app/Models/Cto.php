@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class Cto extends Model
 {
     // use HasFactory;
-    public $table 'cto';
+    public $table = 'cto';
 
     protected $fillable = [
         'perusahaan_id',
@@ -19,4 +19,11 @@ class Cto extends Model
         'updated_at',
 
     ];
+
+    //relation
+    public function perusahaan()
+    {
+        return $this->belongsTo('App\Models\Perusahaan', 'perusahaan_id', 'id');
+    }
+
 }

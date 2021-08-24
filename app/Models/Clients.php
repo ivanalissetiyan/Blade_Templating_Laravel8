@@ -19,4 +19,15 @@ class Clients extends Model
         'updated_at',
 
     ];
+
+    //relation
+    public function perusahaan()
+    {
+        return $this->belongsTo('App\Models\Perusahaan', 'perusahaan_id', 'id');
+    }
+
+    public function clients()
+    {
+        return $this->belongsTo('App\Models\Perusahaan', 'client_id', 'id');
+    }
 }

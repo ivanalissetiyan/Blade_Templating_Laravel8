@@ -15,8 +15,14 @@ class Alamat extends Model
         'nama',
         'kapasitas',
         'alamat_detail',
-        'create_at',
-        'update_at',
+        'created_at',
+        'updated_at',
     ];
+
+    // relation
+    public function perusahaan()
+    {
+        return $this->hasOne('App\Models\Perusahaan', 'alamat_id');
+    }
 
 }

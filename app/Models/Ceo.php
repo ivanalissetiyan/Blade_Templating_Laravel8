@@ -20,4 +20,10 @@ class Ceo extends Model
         'updated_at',
 
     ];
+
+    //relation
+    public function perusahaan()
+    {
+        return $this->belongsTo('App\Models\Perusahaan', 'perusahaan_id', 'id');
+    }
 }

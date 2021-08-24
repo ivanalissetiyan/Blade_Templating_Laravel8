@@ -18,6 +18,32 @@ class Perusahaan extends Model
         'jml_karyawan',
         'created_at',
         'updated_at',
-
     ];
+
+    //Relation
+    public function alamat()
+    {
+        return $this->belongsTo('App\Models\Alamat', 'alamat_id', 'id');
+    }
+
+    public function ceo()
+    {
+        return $this->hasmany('App\Models\Ceo', 'perusahaan_id');
+    }
+
+    public function cto()
+    {
+        return $this->hasMany('App\Models\Cto', 'perusahaan_id');
+    }
+
+    public function match_perusahaan()
+    {
+        return $this->hasOne('App\Models\Clients', 'perusahaan_id');
+    }
+
+    public function match_client()
+    {
+        return $this->hasOne('App\Models\Clients', 'client_id');
+    }
+
 }
