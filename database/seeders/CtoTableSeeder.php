@@ -62,8 +62,8 @@ class CtoTableSeeder extends Seeder
                 'nama' => 'Darmawan',
                 'tinggi' => '166',
                 'posisi' => 'UI UX Design',
-                'create_at' => '2021-03-28 00:00:00',
-                'update_at' => '2021-03-28 00:00:00',
+                'created_at' => '2021-03-28 00:00:00',
+                'updated_at' => '2021-03-28 00:00:00',
             ],
 
         ];

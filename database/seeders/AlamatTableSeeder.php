@@ -37,8 +37,8 @@ class AlamatTableSeeder extends Seeder
                 'nama' => 'Tiban',
                 'kapasitas' => 2000,
                 'alamat_detail' => 'Tiban, House Coffe, Blok D 10',
-                'create_at' => '2021-03-21 08:00:00',
-                'update_at' => '2021-03-21 08:00:00',
+                'created_at' => '2021-03-21 08:00:00',
+                'updated_at' => '2021-03-21 08:00:00',
             ],
         ];
 

@@ -34,8 +34,8 @@ class CeoTableSeeder extends Seeder
                 'nama' => 'Ribowo Johansen',
                 'umur' => '53',
                 'negara' => 'Indonesia',
-                'create_at' => '2021-03-20 10:00:20',
-                'update_at' => '2021-03-20 10:00:20',
+                'created_at' => '2021-03-20 10:00:20',
+                'updated_at' => '2021-03-20 10:00:20',
         ];
 
         Ceo::insert($ceo);

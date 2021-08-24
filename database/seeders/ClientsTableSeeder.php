@@ -38,8 +38,8 @@ class ClientsTableSeeder extends Seeder
                 'perusahaan_id' => 3,
                 'client_id' => 4,
                 'jadwal' => '2021-08-18 00:00:00',
-                'create_at' => '2021-03-21 08:00:00',
-                'update_at' => '2021-03-21 08:00:00',
+                'created_at' => '2021-03-21 08:00:00',
+                'updated_at' => '2021-03-21 08:00:00',
             ]
         ];
         Clients::insert($clients);

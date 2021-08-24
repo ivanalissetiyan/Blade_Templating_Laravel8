@@ -43,8 +43,8 @@ class PerusahaanTableSeeder extends Seeder
             'logo' => 'https://resources.premierleage.com/premierleague/badges/t5.svg',
             'url' => 'www.abctechnology',
             'jml_karyawan' =>  53,
-            'create_at' => '2021-03-20 00:00:00',
-            'update_at' => '2021-03-20 00:00:00',
+            'created_at' => '2021-03-20 00:00:00',
+            'updated_at' => '2021-03-20 00:00:00',
         ],
 
     ];
